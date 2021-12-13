@@ -1,5 +1,7 @@
 # README #
 
+###I initially forked this as a test repo to use with my new terminal setup, although I will also use the original starship.toml file as inspo for my own starship prompt within bash.
+
 ### Starship command prompt configuration file. ###
 
 ![1](https://user-images.githubusercontent.com/75028000/101291114-2026a300-380f-11eb-9bf4-04f39b75ba04.jpg)
